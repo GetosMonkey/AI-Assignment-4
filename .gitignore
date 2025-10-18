@@ -1,5 +1,6 @@
 # Ignore the massive data files
 archive/
+data/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
